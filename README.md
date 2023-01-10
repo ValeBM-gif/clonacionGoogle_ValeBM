@@ -7,5 +7,7 @@ El propósito de esta página es tartar de asemejar visualmente lo más que se p
 ### Capturas de pantalla:
 
 ![Captura 1](imgs/google1.png)
+
 ![Captura 2](imgs/google2.png)
+
 ![Captura 3](imgs/google3.png)
